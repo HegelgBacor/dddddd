@@ -19,7 +19,7 @@ function initializeSampleData() {
                 description: 'Fresh romaine lettuce, croutons, parmesan cheese with our signature Caesar dressing',
                 category: 'appetizers',
                 price: '299.00',
-                image: 'src/assets/images/caesar-salad.jpg'
+                image: 'src/assets/images/code-8779051_1280.jpg'
             },
             {
                 id: '2',
